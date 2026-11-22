@@ -8,7 +8,7 @@ supaya pakan jatuh secukupnya ke akuarium, lalu wadah kembali menutup.
 Tombol manual memberi makan sekali di luar jadwal, dan LED hijau menyala
 selama servo membuka wadah.
 
-Video penjelasan (60 detik): link menyusul setelah upload
+Video penjelasan (60 detik): https://www.youtube.com/shorts/keTsFkHhw7Q
 
 ## Yang dipakai
 
